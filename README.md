@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 
+
 <img src="https://github.com/JuFreitas95/logo./blob/master/img/DESKTOP.png?raw=true" width:80px height:100px>
+<img src="https://github.com/JuFreitas95/logo./blob/master/img/MOBILE.png?raw=true">
 
 
 
