@@ -1,4 +1,4 @@
-<h1> Logo </h1>
+<h1> Logo. </h1>
 <br>
 <br>
 <h2> Esse é um projeto responsivo que aprendi no <a href="https://rodolfomori.com.br/devclub/"> DevClub</a></h2>
@@ -8,7 +8,7 @@
 
 
 
-<img src="https://github.com/JuFreitas95/logo./blob/master/img/DESKTOP.png?raw=true" width:80px height:100px>
+<img src="https://github.com/JuFreitas95/logo./blob/master/img/DESKTOP.png?raw=true">
 <img src="https://github.com/JuFreitas95/logo./blob/master/img/MOBILE.png?raw=true">
 
 
